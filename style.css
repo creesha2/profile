@@ -51,6 +51,10 @@ a:hover {
   margin-right: 10px;
 }
 
+.list-inline > li > a > i {
+  font-size: 2em;
+}
+
 .card {
   border: 1px solid maroon;
   border-radius: 5px;
